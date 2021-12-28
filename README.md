@@ -1,1 +1,1 @@
-**Data Analysis with Python**
+**Data Analytics**
